@@ -19,8 +19,10 @@ function setup() {
   // aceleração X e Y
   var andarX = 0
   var andarY = 0
+  // padrão de velocidade
+  var pad = 1
   // velocidade
-  var velo = 1
+  var velo = pad
   
   function mover(){
     // adicionando as acelerações às respectivas posições
@@ -45,9 +47,9 @@ function setup() {
        (keyIsDown(87)&&keyIsDown(68))  ||
        (keyIsDown(87)&&keyIsDown(65))
       ){
-      velo = 0.5
+      velo = pad/2
     }else{
-      velo = 1
+      velo = pad
     }
     
     // ajustando a aceleração Y pressionando [S] ou [W]
