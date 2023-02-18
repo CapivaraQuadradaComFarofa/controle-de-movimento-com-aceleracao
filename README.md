@@ -3,3 +3,4 @@
 <p>Esse é um projeto bem simples em que foi criado uma quadrado vermelho correndo num plano, mas com a diferença que ele possui uma aceleração ao invés de andar em uma só velocidade.</p>
 <p>USE WASD PARA SE MOVIMENTAR</p>
 <p>Link para o Environment https://thehecchilles.github.io/controle-de-movimento-com-aceleracao/</p>
+<p>Obs: Esse projeto usa as bibliotecas do p5.js.</p>
