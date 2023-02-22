@@ -7,4 +7,6 @@
 
 <p><a href="https://thehecchilles.github.io/controle-de-movimento-com-aceleracao/" target="_blank">Link para o Environment</a></p>
 
+[Link para o Environment](https://thehecchilles.github.io/controle-de-movimento-com-aceleracao/){:target="_blank" rel="noopener"}
+
 <p>Obs: Esse projeto usa as bibliotecas do p5.js.</p>
